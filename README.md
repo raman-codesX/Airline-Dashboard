@@ -7,7 +7,7 @@ This project analyzes airline performance data using Microsoft Power BI.
 - Passenger Count Trends
 - Flight Completion Rate
 - Flight Status Analysis
-- Passenger Distribution by Country
+- Passenger Distribution By Country
 
 ## Tools Used
 - Microsoft Power BI
